@@ -1,0 +1,15 @@
+body	{background-color:silver;}
+li		{list-style-type:none;xt-align:left;padding-top:10px;}
+
+label	{width:150px;}
+
+div		{float:left; display:inline;width:100px;align:center;
+		 text-align:center;background-color:gray;}
+		 
+select	{width:150;}
+
+input	{width:50;}
+
+td		{width:120px;}
+#top	{width:120px;background-color:gray;}
+#bottom	{width:120px;}

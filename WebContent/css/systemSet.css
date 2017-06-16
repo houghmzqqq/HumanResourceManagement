@@ -1,0 +1,25 @@
+#navigation {width:100%;height:60px;border-style:none;}
+
+#rightDiv{width:100%;height:800px;background-color:silver;
+		  text-align:center;padding-top:50px;}
+
+table	{margin:0 auto;}
+
+#turnBack {margin-left:30px;margin-top:30px;background-color:silver;color:black;
+		 height:30px;width:50px;}
+#tijiao	{margin-left:30px;margin-top:30px;background-color:silver;color:black;
+		 height:30px;width:50px;}
+		  
+select	{width:150px;}
+
+input	{width:150px;}
+		  
+iframe	{width:400px;height:800px;border-width:0;}
+
+#f_td	{background-color:gray;width:100px;}
+
+ul#nav{ width:100%; height:40px; background:gray;margin:0 auto} 
+ul#nav li{display:inline; height:40px} 
+ul#nav li a{display:inline-block; padding:0 20px; height:40px; line-height:60px;
+ 			color:#FFF; font-family:"\5FAE\8F6F\96C5\9ED1"; font-size:16px} 
+ul#nav li a:hover{background:slategray;}/*设置鼠标滑过或悬停时变化的背景颜色*/
